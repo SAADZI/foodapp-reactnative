@@ -3098,8 +3098,8 @@ fast-glob@^3.2.12, fast-glob@^3.2.5, fast-glob@^3.2.7, fast-glob@^3.2.9:
     micromatch "^4.0.4"
 
 fast-xml-parser@^4.0.12:
-  version "4.2.4"
-  resolved "https://registry.npmjs.org/fast-xml-parser/-/fast-xml-parser-4.2.4.tgz"
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.5.0.tgz#2882b7d01a6825dfdf909638f2de0256351def37"
   dependencies:
     strnum "^1.0.5"
 
